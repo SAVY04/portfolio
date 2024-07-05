@@ -8,3 +8,4 @@ We will predict if the Falcon 9 first stage will land successfully. SpaceX adver
 
 [![View on GitHub](https://img.shields.io/badge/Github-View_on_Github-blue?logo=GitHub)](https://github.com/SAVY04/IBM-AppliedDataScience-Capstone-FINAL)
 
+<centre><img src="assets/img/rocket.png"/></centre>
